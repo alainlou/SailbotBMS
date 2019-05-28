@@ -1,0 +1,10 @@
+# KiCad Libraries from 3rd Parties
+/vendor
+
+# KiCad Temporary and Backup Files
+*.bak
+*.kicad_pcb-bak
+
+# Vim Temporary Files
+*.md~
+*.un~
