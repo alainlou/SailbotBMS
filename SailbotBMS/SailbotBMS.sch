@@ -1,4 +1,154 @@
-EESchema Schematic File Version 2
-EELAYER 25 0
+EESchema Schematic File Version 4
+LIBS:SailbotBMS-cache
+EELAYER 26 0
 EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:Battery_Cell BT?
+U 1 1 5D240EB9
+P 1700 3000
+F 0 "BT?" H 1818 3096 50  0000 L CNN
+F 1 "Battery_Cell" H 1818 3005 50  0000 L CNN
+F 2 "" V 1700 3060 50  0001 C CNN
+F 3 "~" V 1700 3060 50  0001 C CNN
+	1    1700 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Battery_Cell BT?
+U 1 1 5D241069
+P 1700 2700
+F 0 "BT?" H 1818 2796 50  0000 L CNN
+F 1 "Battery_Cell" H 1818 2705 50  0000 L CNN
+F 2 "" V 1700 2760 50  0001 C CNN
+F 3 "~" V 1700 2760 50  0001 C CNN
+	1    1700 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Battery_Cell BT?
+U 1 1 5D24108D
+P 1700 2400
+F 0 "BT?" H 1818 2496 50  0000 L CNN
+F 1 "Battery_Cell" H 1818 2405 50  0000 L CNN
+F 2 "" V 1700 2460 50  0001 C CNN
+F 3 "~" V 1700 2460 50  0001 C CNN
+	1    1700 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Battery_Cell BT?
+U 1 1 5D2410A9
+P 1700 2100
+F 0 "BT?" H 1818 2196 50  0000 L CNN
+F 1 "Battery_Cell" H 1818 2105 50  0000 L CNN
+F 2 "" V 1700 2160 50  0001 C CNN
+F 3 "~" V 1700 2160 50  0001 C CNN
+	1    1700 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VDD #PWR?
+U 1 1 5D241287
+P 3300 1400
+F 0 "#PWR?" H 3300 1250 50  0001 C CNN
+F 1 "VDD" H 3317 1573 50  0000 C CNN
+F 2 "" H 3300 1400 50  0001 C CNN
+F 3 "" H 3300 1400 50  0001 C CNN
+	1    3300 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VSS #PWR?
+U 1 1 5D2412C1
+P 3000 1400
+F 0 "#PWR?" H 3000 1250 50  0001 C CNN
+F 1 "VSS" H 3017 1573 50  0000 C CNN
+F 2 "" H 3000 1400 50  0001 C CNN
+F 3 "" H 3000 1400 50  0001 C CNN
+	1    3000 1400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 1400 3300 1600
+Wire Wire Line
+	3000 1400 3000 2400
+Wire Wire Line
+	3000 2400 3300 2400
+Wire Wire Line
+	3300 1900 1700 1900
+Wire Wire Line
+	1700 2000 1700 2200
+Connection ~ 1700 2200
+Wire Wire Line
+	1700 2200 2500 2200
+Wire Wire Line
+	2500 2200 2500 2000
+Wire Wire Line
+	2500 2000 3300 2000
+Wire Wire Line
+	2600 2500 2600 2100
+Wire Wire Line
+	2600 2100 3300 2100
+Wire Wire Line
+	1700 2500 2600 2500
+Connection ~ 1700 2500
+Wire Wire Line
+	2700 2800 2700 2200
+Wire Wire Line
+	2700 2200 3300 2200
+Wire Wire Line
+	1700 2800 2700 2800
+Connection ~ 1700 2800
+Wire Wire Line
+	1700 3050 2800 3050
+Wire Wire Line
+	2800 3050 2800 2300
+Wire Wire Line
+	2800 2300 3300 2300
+$Comp
+L SailbotBMS:BQ77915 U?
+U 1 1 5D240F97
+P 3750 2100
+F 0 "U?" H 3725 2825 50  0000 C CNN
+F 1 "BQ77915" H 3725 2734 50  0000 C CNN
+F 2 "" H 4100 1850 50  0001 C CNN
+F 3 "" H 4100 1850 50  0001 C CNN
+	1    3750 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+BATT #PWR?
+U 1 1 5D24109F
+P 1700 1900
+F 0 "#PWR?" H 1700 1750 50  0001 C CNN
+F 1 "+BATT" H 1715 2073 50  0000 C CNN
+F 2 "" H 1700 1900 50  0001 C CNN
+F 3 "" H 1700 1900 50  0001 C CNN
+	1    1700 1900
+	1    0    0    -1  
+$EndComp
+Connection ~ 1700 1900
+$Comp
+L power:-BATT #PWR?
+U 1 1 5D2410F9
+P 1700 3100
+F 0 "#PWR?" H 1700 2950 50  0001 C CNN
+F 1 "-BATT" H 1715 3273 50  0000 C CNN
+F 2 "" H 1700 3100 50  0001 C CNN
+F 3 "" H 1700 3100 50  0001 C CNN
+	1    1700 3100
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC
