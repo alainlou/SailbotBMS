@@ -1,10 +1,25 @@
-# KiCad Libraries from 3rd Parties
-/vendor
+# For PCBs designed using KiCad: http://www.kicad-pcb.org/
+# Format documentation: http://kicad-pcb.org/help/file-formats/
 
-# KiCad Temporary and Backup Files
+# Temporary files
+*.000
 *.bak
+*.bck
 *.kicad_pcb-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
 
-# Vim Temporary Files
-*.md~
-*.un~
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Exported BOM files
+*.xml
+*.csv
