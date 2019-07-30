@@ -1,0 +1,362 @@
+Info: Checking netlist symbol footprint “R_GS2:/5D34B287:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “C_VDD1:/5D303BCB:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “C_VDO1:/5D303C73:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “R_CHG1:/5D34384D:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “Q_NMOS_CHG2:/5D44B97B:Package_TO_SOT_SMD:TO-252-3_TabPin2”.
+
+Info: Checking netlist symbol footprint “R_TS_PU1:/5D31F2D1:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “J1:/5D2E0BFC:Connector_JST:JST_XH_B05B-XH-AM_1x05_P2.50mm_Vertical”.
+
+Info: Checking netlist symbol footprint “Q_NMOS_DGS3:/5D44F7D1:Package_TO_SOT_SMD:TO-252-3_TabPin2”.
+
+Info: Checking netlist symbol footprint “Q_NMOS_DGS1:/5D24BC09:Package_TO_SOT_SMD:TO-252-3_TabPin2”.
+
+Info: Checking netlist symbol footprint “R_DSG1:/5D343617:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “Q_NMOS_DGS4:/5D44F833:Package_TO_SOT_SMD:TO-252-3_TabPin2”.
+
+Info: Checking netlist symbol footprint “U1:/5D24103E:Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm”.
+
+Info: Checking netlist symbol footprint “J2:/5D395A6C:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal”.
+
+Info: Checking netlist symbol footprint “R_VDD1:/5D303A51:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “Q_NMOS_DGS2:/5D44F779:Package_TO_SOT_SMD:TO-252-3_TabPin2”.
+
+Info: Checking netlist symbol footprint “TH1:/5D31F3EF:Resistor_SMD:R_0402_1005Metric”.
+
+Info: Checking netlist symbol footprint “J3:/5D39668F:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical”.
+
+Info: Checking netlist symbol footprint “R_GS1:/5D34B3E1:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “Q_NMOS_CHG1:/5D2DE5B1:Package_TO_SOT_SMD:TO-252-3_TabPin2”.
+
+Info: Checking netlist symbol footprint “R_CB1:/5D33287A:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “R3:/5D386124:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “R4:/5D38616A:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “C2:/5D2E252F:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “R_OCD1:/5D3275AD:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “Q_NMOS_CHG4:/5D44B8C3:Package_TO_SOT_SMD:TO-252-3_TabPin2”.
+
+Info: Checking netlist symbol footprint “R2:/5D3860E4:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “C3:/5D2E2503:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “R5:/5D3861AE:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “Q_NMOS_CHG3:/5D44B921:Package_TO_SOT_SMD:TO-252-3_TabPin2”.
+
+Info: Checking netlist symbol footprint “C4:/5D2E2455:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “R1:/5D386026:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “C1:/5D2EE17D:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “R_LD1:/5D33CBBE:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “C5:/5D2E1FDB:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “R_SNS1:/5D360D32:Resistor_SMD:R_0603_1608Metric”.
+
+Adding new symbol “R_LD1:/5D33CBBE” footprint “Resistor_SMD:R_0603_1608Metric”.
+
+Changing footprint “R_GS1:/5D34B3E1” pad “2” net name from “” to “Net-(Q_NMOS_DGS1-Pad3)”.
+
+Adding new symbol “R_GS2:/5D34B287” footprint “Resistor_SMD:R_0603_1608Metric”.
+
+Changing footprint “R_GS2:/5D34B287” pad “2” net name from “” to “PACK-”.
+
+Changing footprint “R_CHG1:/5D34384D” pad “1” net name from “” to “Net-(R_CHG1-Pad1)”.
+
+Changing footprint “R_GS2:/5D34B287” pad “1” net name from “” to “Net-(Q_NMOS_CHG1-Pad2)”.
+
+Changing footprint “R_LD1:/5D33CBBE” pad “1” net name from “” to “Net-(R_LD1-Pad1)”.
+
+Changing footprint “R_CB1:/5D33287A” pad “2” net name from “” to “GNDREF”.
+
+Changing footprint “R3:/5D386124” pad “2” net name from “” to “Net-(J1-Pad3)”.
+
+Adding new symbol “R4:/5D38616A” footprint “Resistor_SMD:R_0603_1608Metric”.
+
+Changing footprint “R4:/5D38616A” pad “2” net name from “” to “Net-(J1-Pad2)”.
+
+Changing footprint “R4:/5D38616A” pad “1” net name from “” to “Net-(C2-Pad1)”.
+
+Adding new symbol “R5:/5D3861AE” footprint “Resistor_SMD:R_0603_1608Metric”.
+
+Changing footprint “R5:/5D3861AE” pad “1” net name from “” to “Net-(C1-Pad2)”.
+
+Changing footprint “R5:/5D3861AE” pad “2” net name from “” to “Net-(J1-Pad1)”.
+
+Adding new symbol “R_CB1:/5D33287A” footprint “Resistor_SMD:R_0603_1608Metric”.
+
+Changing footprint “R_GS1:/5D34B3E1” pad “1” net name from “” to “Net-(Q_NMOS_DGS1-Pad2)”.
+
+Changing footprint “R_CB1:/5D33287A” pad “1” net name from “” to “Net-(R_CB1-Pad1)”.
+
+Adding new symbol “R_CHG1:/5D34384D” footprint “Resistor_SMD:R_0603_1608Metric”.
+
+Changing footprint “R_CHG1:/5D34384D” pad “2” net name from “” to “Net-(Q_NMOS_CHG1-Pad2)”.
+
+Changing footprint “R_SNS1:/5D360D32” pad “1” net name from “” to “Net-(Q_NMOS_DGS1-Pad3)”.
+
+Adding new symbol “R_DSG1:/5D343617” footprint “Resistor_SMD:R_0603_1608Metric”.
+
+Changing footprint “R_DSG1:/5D343617” pad “2” net name from “” to “Net-(Q_NMOS_DGS1-Pad2)”.
+
+Changing footprint “R_DSG1:/5D343617” pad “1” net name from “” to “Net-(R_DSG1-Pad1)”.
+
+Adding new symbol “R_GS1:/5D34B3E1” footprint “Resistor_SMD:R_0603_1608Metric”.
+
+Changing footprint “U1:/5D24103E” pad “15” net name from “” to “Net-(U1-Pad15)”.
+
+Changing footprint “U1:/5D24103E” pad “5” net name from “” to “Net-(C4-Pad1)”.
+
+Changing footprint “U1:/5D24103E” pad “6” net name from “” to “Net-(C3-Pad1)”.
+
+Changing footprint “U1:/5D24103E” pad “7” net name from “” to “Net-(C2-Pad1)”.
+
+Changing footprint “U1:/5D24103E” pad “8” net name from “” to “Net-(C1-Pad2)”.
+
+Changing footprint “U1:/5D24103E” pad “9” net name from “” to “Net-(J1-Pad1)”.
+
+Changing footprint “U1:/5D24103E” pad “10” net name from “” to “Net-(J1-Pad1)”.
+
+Changing footprint “U1:/5D24103E” pad “11” net name from “” to “Net-(Q_NMOS_DGS1-Pad3)”.
+
+Changing footprint “U1:/5D24103E” pad “12” net name from “” to “Net-(R_DSG1-Pad1)”.
+
+Changing footprint “U1:/5D24103E” pad “13” net name from “” to “Net-(R_CHG1-Pad1)”.
+
+Changing footprint “U1:/5D24103E” pad “14” net name from “” to “Net-(R_LD1-Pad1)”.
+
+Changing footprint “U1:/5D24103E” pad “4” net name from “” to “Net-(C5-Pad1)”.
+
+Changing footprint “U1:/5D24103E” pad “16” net name from “” to “Net-(R_CB1-Pad1)”.
+
+Changing footprint “U1:/5D24103E” pad “17” net name from “” to “Net-(R_OCD1-Pad1)”.
+
+Changing footprint “U1:/5D24103E” pad “18” net name from “” to “Net-(R_TS_PU1-Pad2)”.
+
+Changing footprint “U1:/5D24103E” pad “19” net name from “” to “Net-(R_TS_PU1-Pad1)”.
+
+Changing footprint “U1:/5D24103E” pad “20” net name from “” to “Net-(C_VDO1-Pad1)”.
+
+Changing footprint “U1:/5D24103E” pad “21” net name from “” to “Net-(U1-Pad21)”.
+
+Changing footprint “U1:/5D24103E” pad “22” net name from “” to “PRES”.
+
+Changing footprint “U1:/5D24103E” pad “23” net name from “” to “GNDREF”.
+
+Changing footprint “U1:/5D24103E” pad “24” net name from “” to “GNDREF”.
+
+Adding new symbol “R_VDD1:/5D303A51” footprint “Resistor_SMD:R_0603_1608Metric”.
+
+Adding new symbol “R_OCD1:/5D3275AD” footprint “Resistor_SMD:R_0603_1608Metric”.
+
+Changing footprint “R_OCD1:/5D3275AD” pad “1” net name from “” to “Net-(R_OCD1-Pad1)”.
+
+Changing footprint “R_OCD1:/5D3275AD” pad “2” net name from “” to “GNDREF”.
+
+Adding new symbol “R_SNS1:/5D360D32” footprint “Resistor_SMD:R_0603_1608Metric”.
+
+Changing footprint “R_SNS1:/5D360D32” pad “2” net name from “” to “Net-(J1-Pad1)”.
+
+Changing footprint “Q_NMOS_DGS4:/5D44F833” pad “2” net name from “” to “Net-(Q_NMOS_DGS1-Pad2)”.
+
+Adding new symbol “R_TS_PU1:/5D31F2D1” footprint “Resistor_SMD:R_0603_1608Metric”.
+
+Changing footprint “R_TS_PU1:/5D31F2D1” pad “1” net name from “” to “Net-(R_TS_PU1-Pad1)”.
+
+Changing footprint “R_TS_PU1:/5D31F2D1” pad “2” net name from “” to “Net-(R_TS_PU1-Pad2)”.
+
+Changing footprint “R_LD1:/5D33CBBE” pad “2” net name from “” to “PACK-”.
+
+Changing footprint “R_VDD1:/5D303A51” pad “1” net name from “” to “Net-(C_VDD1-Pad1)”.
+
+Changing footprint “R_VDD1:/5D303A51” pad “2” net name from “” to “PACK+”.
+
+Adding new symbol “TH1:/5D31F3EF” footprint “Resistor_SMD:R_0402_1005Metric”.
+
+Changing footprint “TH1:/5D31F3EF” pad “1” net name from “” to “GNDREF”.
+
+Changing footprint “TH1:/5D31F3EF” pad “2” net name from “” to “Net-(R_TS_PU1-Pad2)”.
+
+Adding new symbol “U1:/5D24103E” footprint “Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm”.
+
+Changing footprint “U1:/5D24103E” pad “1” net name from “” to “Net-(C_VDD1-Pad1)”.
+
+Changing footprint “U1:/5D24103E” pad “2” net name from “” to “Net-(C_VDO1-Pad1)”.
+
+Changing footprint “U1:/5D24103E” pad “3” net name from “” to “Net-(C5-Pad1)”.
+
+Changing footprint “J2:/5D395A6C” pad “2” net name from “” to “PACK-”.
+
+Changing footprint “C_VDO1:/5D303C73” pad “2” net name from “” to “GNDREF”.
+
+Adding new symbol “J1:/5D2E0BFC” footprint “Connector_JST:JST_XH_B05B-XH-AM_1x05_P2.50mm_Vertical”.
+
+Changing footprint “J1:/5D2E0BFC” pad “1” net name from “” to “Net-(J1-Pad1)”.
+
+Changing footprint “J1:/5D2E0BFC” pad “2” net name from “” to “Net-(J1-Pad2)”.
+
+Changing footprint “J1:/5D2E0BFC” pad “3” net name from “” to “Net-(J1-Pad3)”.
+
+Changing footprint “J1:/5D2E0BFC” pad “4” net name from “” to “Net-(J1-Pad4)”.
+
+Changing footprint “J1:/5D2E0BFC” pad “5” net name from “” to “PACK+”.
+
+Adding new symbol “J2:/5D395A6C” footprint “TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal”.
+
+Changing footprint “J2:/5D395A6C” pad “1” net name from “” to “PACK+”.
+
+Changing footprint “C_VDO1:/5D303C73” pad “1” net name from “” to “Net-(C_VDO1-Pad1)”.
+
+Adding new symbol “J3:/5D39668F” footprint “Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical”.
+
+Changing footprint “J3:/5D39668F” pad “1” net name from “” to “+5V”.
+
+Changing footprint “J3:/5D39668F” pad “2” net name from “” to “PRES”.
+
+Adding new symbol “Q_NMOS_CHG1:/5D2DE5B1” footprint “Package_TO_SOT_SMD:TO-252-3_TabPin2”.
+
+Changing footprint “Q_NMOS_CHG1:/5D2DE5B1” pad “2” net name from “” to “Net-(Q_NMOS_CHG1-Pad2)”.
+
+Changing footprint “Q_NMOS_CHG1:/5D2DE5B1” pad “3” net name from “” to “PACK-”.
+
+Changing footprint “Q_NMOS_CHG1:/5D2DE5B1” pad “2” net name from “” to “Net-(Q_NMOS_CHG1-Pad2)”.
+
+Changing footprint “Q_NMOS_CHG1:/5D2DE5B1” pad “1” net name from “” to “Net-(Q_NMOS_CHG1-Pad1)”.
+
+Adding new symbol “Q_NMOS_CHG2:/5D44B97B” footprint “Package_TO_SOT_SMD:TO-252-3_TabPin2”.
+
+Adding new symbol “C4:/5D2E2455” footprint “Capacitor_SMD:C_0603_1608Metric”.
+
+Adding new symbol “C1:/5D2EE17D” footprint “Capacitor_SMD:C_0603_1608Metric”.
+
+Changing footprint “C1:/5D2EE17D” pad “1” net name from “” to “GNDREF”.
+
+Changing footprint “C1:/5D2EE17D” pad “2” net name from “” to “Net-(C1-Pad2)”.
+
+Adding new symbol “C2:/5D2E252F” footprint “Capacitor_SMD:C_0603_1608Metric”.
+
+Changing footprint “C2:/5D2E252F” pad “2” net name from “” to “GNDREF”.
+
+Changing footprint “C2:/5D2E252F” pad “1” net name from “” to “Net-(C2-Pad1)”.
+
+Adding new symbol “C3:/5D2E2503” footprint “Capacitor_SMD:C_0603_1608Metric”.
+
+Changing footprint “C3:/5D2E2503” pad “1” net name from “” to “Net-(C3-Pad1)”.
+
+Changing footprint “C3:/5D2E2503” pad “2” net name from “” to “Net-(C2-Pad1)”.
+
+Changing footprint “Q_NMOS_CHG2:/5D44B97B” pad “2” net name from “” to “Net-(Q_NMOS_CHG1-Pad2)”.
+
+Changing footprint “C4:/5D2E2455” pad “2” net name from “” to “Net-(C3-Pad1)”.
+
+Changing footprint “C4:/5D2E2455” pad “1” net name from “” to “Net-(C4-Pad1)”.
+
+Adding new symbol “C5:/5D2E1FDB” footprint “Capacitor_SMD:C_0603_1608Metric”.
+
+Changing footprint “C5:/5D2E1FDB” pad “1” net name from “” to “Net-(C5-Pad1)”.
+
+Changing footprint “C5:/5D2E1FDB” pad “2” net name from “” to “Net-(C4-Pad1)”.
+
+Adding new symbol “C_VDD1:/5D303BCB” footprint “Capacitor_SMD:C_0603_1608Metric”.
+
+Changing footprint “C_VDD1:/5D303BCB” pad “2” net name from “” to “GNDREF”.
+
+Changing footprint “C_VDD1:/5D303BCB” pad “1” net name from “” to “Net-(C_VDD1-Pad1)”.
+
+Adding new symbol “C_VDO1:/5D303C73” footprint “Capacitor_SMD:C_0603_1608Metric”.
+
+Changing footprint “Q_NMOS_DGS4:/5D44F833” pad “1” net name from “” to “Net-(Q_NMOS_CHG2-Pad1)”.
+
+Changing footprint “Q_NMOS_DGS2:/5D44F779” pad “2” net name from “” to “Net-(Q_NMOS_DGS1-Pad2)”.
+
+Changing footprint “Q_NMOS_DGS2:/5D44F779” pad “3” net name from “” to “Net-(Q_NMOS_DGS1-Pad1)”.
+
+Changing footprint “Q_NMOS_DGS2:/5D44F779” pad “2” net name from “” to “Net-(Q_NMOS_DGS1-Pad2)”.
+
+Adding new symbol “Q_NMOS_DGS3:/5D44F7D1” footprint “Package_TO_SOT_SMD:TO-252-3_TabPin2”.
+
+Changing footprint “Q_NMOS_DGS3:/5D44F7D1” pad “2” net name from “” to “Net-(Q_NMOS_DGS1-Pad2)”.
+
+Changing footprint “Q_NMOS_DGS3:/5D44F7D1” pad “3” net name from “” to “Net-(Q_NMOS_DGS2-Pad1)”.
+
+Changing footprint “Q_NMOS_DGS3:/5D44F7D1” pad “2” net name from “” to “Net-(Q_NMOS_DGS1-Pad2)”.
+
+Changing footprint “Q_NMOS_DGS3:/5D44F7D1” pad “1” net name from “” to “Net-(Q_NMOS_DGS3-Pad1)”.
+
+Adding new symbol “Q_NMOS_DGS4:/5D44F833” footprint “Package_TO_SOT_SMD:TO-252-3_TabPin2”.
+
+Changing footprint “Q_NMOS_DGS2:/5D44F779” pad “1” net name from “” to “Net-(Q_NMOS_DGS2-Pad1)”.
+
+Changing footprint “Q_NMOS_DGS4:/5D44F833” pad “2” net name from “” to “Net-(Q_NMOS_DGS1-Pad2)”.
+
+Changing footprint “Q_NMOS_DGS4:/5D44F833” pad “3” net name from “” to “Net-(Q_NMOS_DGS3-Pad1)”.
+
+Adding new symbol “R1:/5D386026” footprint “Resistor_SMD:R_0603_1608Metric”.
+
+Changing footprint “R1:/5D386026” pad “2” net name from “” to “PACK+”.
+
+Changing footprint “R1:/5D386026” pad “1” net name from “” to “Net-(C5-Pad1)”.
+
+Adding new symbol “R2:/5D3860E4” footprint “Resistor_SMD:R_0603_1608Metric”.
+
+Changing footprint “R2:/5D3860E4” pad “1” net name from “” to “Net-(C4-Pad1)”.
+
+Changing footprint “R2:/5D3860E4” pad “2” net name from “” to “Net-(J1-Pad4)”.
+
+Adding new symbol “R3:/5D386124” footprint “Resistor_SMD:R_0603_1608Metric”.
+
+Changing footprint “Q_NMOS_CHG4:/5D44B8C3” pad “2” net name from “” to “Net-(Q_NMOS_CHG1-Pad2)”.
+
+Changing footprint “Q_NMOS_CHG2:/5D44B97B” pad “3” net name from “” to “Net-(Q_NMOS_CHG2-Pad3)”.
+
+Changing footprint “Q_NMOS_CHG2:/5D44B97B” pad “2” net name from “” to “Net-(Q_NMOS_CHG1-Pad2)”.
+
+Changing footprint “Q_NMOS_CHG2:/5D44B97B” pad “1” net name from “” to “Net-(Q_NMOS_CHG2-Pad1)”.
+
+Adding new symbol “Q_NMOS_CHG3:/5D44B921” footprint “Package_TO_SOT_SMD:TO-252-3_TabPin2”.
+
+Changing footprint “Q_NMOS_CHG3:/5D44B921” pad “1” net name from “” to “Net-(Q_NMOS_CHG2-Pad3)”.
+
+Changing footprint “Q_NMOS_CHG3:/5D44B921” pad “2” net name from “” to “Net-(Q_NMOS_CHG1-Pad2)”.
+
+Changing footprint “Q_NMOS_CHG3:/5D44B921” pad “3” net name from “” to “Net-(Q_NMOS_CHG3-Pad3)”.
+
+Changing footprint “Q_NMOS_CHG3:/5D44B921” pad “2” net name from “” to “Net-(Q_NMOS_CHG1-Pad2)”.
+
+Adding new symbol “Q_NMOS_CHG4:/5D44B8C3” footprint “Package_TO_SOT_SMD:TO-252-3_TabPin2”.
+
+Changing footprint “R3:/5D386124” pad “1” net name from “” to “Net-(C3-Pad1)”.
+
+Changing footprint “Q_NMOS_CHG4:/5D44B8C3” pad “3” net name from “” to “Net-(Q_NMOS_CHG1-Pad1)”.
+
+Changing footprint “Q_NMOS_CHG4:/5D44B8C3” pad “2” net name from “” to “Net-(Q_NMOS_CHG1-Pad2)”.
+
+Changing footprint “Q_NMOS_CHG4:/5D44B8C3” pad “1” net name from “” to “Net-(Q_NMOS_CHG3-Pad3)”.
+
+Adding new symbol “Q_NMOS_DGS1:/5D24BC09” footprint “Package_TO_SOT_SMD:TO-252-3_TabPin2”.
+
+Changing footprint “Q_NMOS_DGS1:/5D24BC09” pad “1” net name from “” to “Net-(Q_NMOS_DGS1-Pad1)”.
+
+Changing footprint “Q_NMOS_DGS1:/5D24BC09” pad “2” net name from “” to “Net-(Q_NMOS_DGS1-Pad2)”.
+
+Changing footprint “Q_NMOS_DGS1:/5D24BC09” pad “3” net name from “” to “Net-(Q_NMOS_DGS1-Pad3)”.
+
+Changing footprint “Q_NMOS_DGS1:/5D24BC09” pad “2” net name from “” to “Net-(Q_NMOS_DGS1-Pad2)”.
+
+Adding new symbol “Q_NMOS_DGS2:/5D44F779” footprint “Package_TO_SOT_SMD:TO-252-3_TabPin2”.
+
